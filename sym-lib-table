@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-02-19_22-11-42")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-19_22-11-42.kicad_sym")(options "")(descr ""))
+  (lib (name "whoacares")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-19_23-02-22.kicad_sym")(options "")(descr ""))
+  (lib (name "idk1")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-20_02-35-10.kicad_sym")(options "")(descr ""))
+  (lib (name "idk2")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-20_02-35-42.kicad_sym")(options "")(descr ""))
+  (lib (name "MRF")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-20_15-03-39.kicad_sym")(options "")(descr ""))
+  (lib (name "aa")(type "KiCad")(uri "${KIPRJMOD}/library/2024-02-20_23-33-05.kicad_sym")(options "")(descr ""))
+)
