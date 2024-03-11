@@ -473,9 +473,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/USB_C_PORT_POWER/VBUS_DISCHARGE": "VBUS_DISCHARGE"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -600,20 +598,16 @@
   },
   "sheets": [
     [
-      "ad0873a9-58a4-4101-9566-66f7561370ff",
+      "e7f3feeb-f91a-468e-ae30-37730dc0a932",
       "Root"
     ],
     [
-      "8b24a215-78b6-4f64-ae02-f7f1126ffb16",
-      "USB_C_PORT_POWER"
+      "6ae4fd59-00ed-4562-960f-a75d9b4f84dc",
+      "LED_SUPPLY"
     ],
     [
-      "f1ef38c8-9312-40d2-ba5b-97cb84ce1e5c",
-      "MCU"
-    ],
-    [
-      "657f37db-3a75-40fc-8683-bb1871dac12b",
-      "5V_POWER"
+      "15c89498-bf5b-45b2-b3f4-7450700ea404",
+      "PD_CONTROLLER"
     ]
   ],
   "text_variables": {}
