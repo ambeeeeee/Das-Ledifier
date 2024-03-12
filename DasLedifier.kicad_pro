@@ -608,6 +608,10 @@
     [
       "15c89498-bf5b-45b2-b3f4-7450700ea404",
       "PD_CONTROLLER"
+    ],
+    [
+      "4258462a-3a91-41b0-ac72-3fee80df81f7",
+      "MCU"
     ]
   ],
   "text_variables": {}
